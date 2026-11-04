@@ -1,0 +1,4 @@
+[theme]
+theme.metricValueFontSize = 10
+[logger]
+level = "error"

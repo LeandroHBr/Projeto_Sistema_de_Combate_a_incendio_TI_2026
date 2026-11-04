@@ -1,0 +1,6 @@
+path: Fire_Dataset/ # Caminho base
+train: train/images/ # Caminho relativo para as imagens de treino
+val: test/images # Caminho relativo para as imagens de validação
+
+# Classes do modelo
+names: ['fumaca', 'fogo']
